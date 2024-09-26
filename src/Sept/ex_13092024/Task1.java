@@ -3,7 +3,7 @@ package Sept.ex_13092024;
 Write a program to print the table of number which user will give( int num 10)
 output will be by using the printf()
  */
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int num = 3;
         int multiplier = 0;

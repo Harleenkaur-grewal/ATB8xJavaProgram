@@ -5,7 +5,7 @@ double a = 34;
 double b = 10;
 Print - a+b, a-b, ab, a/b, a%b all the outputs.
  */
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
         double a =93;
         double b =67;

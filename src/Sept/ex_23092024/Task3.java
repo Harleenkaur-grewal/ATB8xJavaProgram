@@ -4,7 +4,7 @@ Write a program that converts between different units
 (e.g., kilometers to metres, Celsius to Fahrenheit)
  based on user selection using a switch statement.
 */
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
         //LET user inputs be 1-km to m, 2-m to km, 3-C to F, 4-F to C
         int choice =3;

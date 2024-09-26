@@ -8,7 +8,7 @@ scalene (no sides are equal).
 Use an if-else statement to classify the triangle.
 side1, side2, side3
  */
-public class task3 {
+public class Task3 {
     public static void main(String[] args) {
        int side_1 = 15;
        int side_2 = 45;

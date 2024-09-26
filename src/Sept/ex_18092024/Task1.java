@@ -3,7 +3,7 @@ package Sept.ex_18092024;
 Give some another example of Widening with Implicit
 and Explicit, Narrowing with implicit and explicit.
  */
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
          int a = 90;
          long b = a;  // Implicit widening

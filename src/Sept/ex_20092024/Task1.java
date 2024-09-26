@@ -4,7 +4,7 @@ By using Ternary Operators max between 3 numbers.
 Input int - a,b,c - a = 10, b = 20, c = 45
 Max → a,b,c → c
  */
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;

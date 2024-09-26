@@ -1,6 +1,6 @@
 package Sept.ex_16092024;
 // Task 4 & 5 output for given expression
-public class tasks {
+public class Tasks {
     public static void main(String[] args) {
         byte a = 10;
         byte b = 10;

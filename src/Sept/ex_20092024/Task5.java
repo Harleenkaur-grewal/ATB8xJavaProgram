@@ -2,7 +2,7 @@ package Sept.ex_20092024;
 /*
 Leap Year Program - Find for 2024
  */
-public class task5 {
+public class Task5 {
     public static void main(String[] args) {
         int year =2024;
         /* Leap year condition:

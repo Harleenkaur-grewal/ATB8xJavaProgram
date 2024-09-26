@@ -3,7 +3,7 @@ package Sept.ex_23092024;
 Create a simple calculator that performs addition, subtraction, multiplication,
 and division, modulus based on user input using switch statements.
 */
-public class task1 {
+public class Task1 {
     public static void main(String[] args) {
         int num1 = 8;
         int num2 = 7;
