@@ -1,4 +1,4 @@
-package Oct.ex_02092024;
+package Oct.ex_02102024;
 // created class ATBStudent
 /*
   Classes and Objects
