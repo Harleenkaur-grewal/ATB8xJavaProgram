@@ -10,7 +10,7 @@ public class taskperson {
         //Person person1 =
         new Person(1);  //object 2
         //using parametrized constructor 2
-        Person FirstEntry = new Person("PRIYA",35,"Female",5.5F, 65,false);
+        Person FirstEntry = new Person("PRIYA",35,"Female",5.5F, 65,true);
         //object 3
         FirstEntry.basicdetails();
         FirstEntry.city ="Noida";
@@ -31,12 +31,22 @@ public class taskperson {
                 123456789l, "rahul@gmail.com");   //object 6
         SecondEntry.otherdetails();
 
+        new Person(3);
+        Person ThirdEntry_basic = new Person("Harry",32,"Female",5.5F, 62,false);
+        ThirdEntry_basic.basicdetails();
+        Person ThirdEntry = new Person("Harry","Ludhiana","Engineer",
+                2356887617l, "Harry@gmail.com");
+        ThirdEntry.otherdetails();
+
         FirstEntry.contactInfo();
         SecondEntry.contactInfo();
+        ThirdEntry.contactInfo();
         FirstEntry.maritalStatus();
-        SecondEntry.maritalStatus();
+        SecondEntry_Basic.maritalStatus();
+        ThirdEntry_basic.maritalStatus();
         FirstEntry.occupationDetail();
         SecondEntry.occupationDetail();
+        ThirdEntry.occupationDetail();
 
     }
 }
