@@ -7,7 +7,8 @@ public class taskperson {
         //default constructor
         new Person();                       //object 1
         //using parametrized constructor 1
-        Person person1 = new Person(1);  //object 2
+        //Person person1 =
+        new Person(1);  //object 2
         //using parametrized constructor 2
         Person FirstEntry = new Person("PRIYA",35,"Female",5.5F, 65,false);
         //object 3
@@ -19,7 +20,8 @@ public class taskperson {
         FirstEntry.otherdetails();
 
         //using parametrized constructor 3
-        Person person2 = new Person(2);   //object 4
+       // Person person2 =
+         new Person(2);   //object 4
         //using parametrized constructor 4
         Person SecondEntry_Basic = new Person("Rahul", 40, "Male",6.2F, 70, true);
         //object 5
